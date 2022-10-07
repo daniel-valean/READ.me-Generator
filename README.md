@@ -29,5 +29,5 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Usage
-![Readme gif](READmeGif.mov)
+
 
